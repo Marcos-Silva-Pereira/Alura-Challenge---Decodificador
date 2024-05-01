@@ -12,4 +12,4 @@ O decodificador funciona da seguinte forma:
             . "o" -> "ober"; 
             . "u" -> "ufat"; 
         4 - O botão "Descriptografar" fará o contrário; 
-        5 - O botão "Copiar", irá copiar o texto que está na área onde mostra o resultado da criptografia ou descriptografia
+        5 - O botão "Copiar", irá copiar o texto que está na área onde mostra o resultado da criptografia ou descriptografia.
